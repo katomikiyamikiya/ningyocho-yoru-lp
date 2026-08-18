@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://katomikiyamikiya.github.io/ningyocho-yoru-lp/sitemap.xml
